@@ -9,6 +9,6 @@ module.exports = {
     },
   },
   plugins: [],
-}
+};
 
 // #d47676
