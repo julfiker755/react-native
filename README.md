@@ -5,4 +5,5 @@ npx create-expo-app -t
 NativeWind
 // react navigation use
 reactnavigation
+// run this project --npx expo
 ```
