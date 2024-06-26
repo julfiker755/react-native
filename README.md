@@ -1,1 +1,6 @@
-## npx create-expo-app -t
+```js
+// project setup
+npx create-expo-app -t
+//tailwind css use
+NativeWind
+```
